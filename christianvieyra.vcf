@@ -17,14 +17,14 @@ TEL;TYPE=sms:
 URL;TYPE=Messenger:
 TEL;TYPE=SIGNAL:
 EMAIL;TYPE=Email:christian.vieyra@adouba.ci
-URL;TYPE=Website:adouba.ci
+URL;TYPE=Website:https://adouba.ci
 
 
 
 URL;TYPE=Location:
 KEY:OPENPGP4FPR:
 UID:SMART vCARD-100694279
-URL;TYPE=Website:adouba.ci
+URL;TYPE=Website:https://adouba.ci
 
 URL;TYPE=Calendar:
 URL;TYPE=WhatsApp:
